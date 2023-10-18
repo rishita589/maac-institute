@@ -1,0 +1,116 @@
+@media only screen and (max-width: 576px){
+    .lg_top{
+        background: url(../img/full_bg.png);
+        background-size: cover;
+        height: 290vh;}
+
+        .ban_txt{
+            margin-top: 100px;
+        }
+        .ban_txt h1{
+            color: #ffffff;
+            font-size: 15px;
+        
+        }
+        .ban_txt p{
+            padding-top: 10px;
+            color: #ffffff;
+            font-size: 12px;
+        
+        }
+        .ban_pic{
+            margin-top: 120px;
+            background: url(../img/banner_character1.png);
+            height: 40vh;
+            width: 250px;
+        }
+        
+}
+
+@media only screen and (max-width: 768px){
+    .lg_top{
+        background: url(../img/full_bg.png);
+        background-size: cover;
+        height: 260vh;}
+
+        .ban_txt{
+            margin-top: 100px;
+        }
+        .ban_txt h1{
+            color: #ffffff;
+            font-size: 37px;
+        
+        }
+        .ban_txt p{
+            padding-top: 10px;
+            color: #ffffff;
+            font-size: 15px;
+        
+        }
+        .ban_pic{
+            margin-top: 120px;
+            background: url(../img/banner_character2.png);
+            height: 44vh;
+            width: 270px;
+        }
+        
+}
+
+@media only screen and (max-width: 992px){
+    .lg_top{
+        background: url(../img/full_bg.png);
+        background-size: cover;
+        height: 260vh;}
+
+        .ban_txt{
+            margin-top: 100px;
+        }
+        .ban_txt h1{
+            color: #ffffff;
+            font-size: 55px;
+        
+        }
+        .ban_txt p{
+            padding-top: 10px;
+            color: #ffffff;
+            font-size: 22px;
+        
+        }
+        .ban_pic{
+            margin-top: 120px;
+            background: url(../img/banner_character3.png);
+            height: 46vh;
+            width: 378px;
+        }
+        
+}
+
+@media only screen and (max-width: 1200px){
+    .lg_top{
+        background: url(../img/full_bg.png);
+        background-size: cover;
+        height: 260vh;}
+
+        .ban_txt{
+            margin-top: 100px;
+        }
+        .ban_txt h1{
+            color: #ffffff;
+            font-size: 55px;
+        
+        }
+        .ban_txt p{
+            padding-top: 10px;
+            color: #ffffff;
+            font-size: 22px;
+        
+        }
+        .ban_pic{
+            margin-top: 120px;
+            background: url(../img/banner_character5.png);
+            height: 57vh;
+            width: 448px;
+        }
+        
+}
+

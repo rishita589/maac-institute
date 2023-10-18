@@ -1,0 +1,54 @@
+*{margin: 0;
+    padding: 0;
+    }
+
+.lg_top{
+    background: url(../img/full_bg.png);
+    background-size: cover;
+    height: 260vh;
+}   
+.btn{
+    float: right;
+    color: #32c8b9;
+    font-weight: 500;
+}
+.nav-link{
+    color: #000000;
+    font-size: 14px;
+    align-items: center;
+}
+
+.ban_txt{
+    margin-top: 100px;
+}
+.ban_txt h1{
+    color: #ffffff;
+    font-size: 60px;
+
+}
+.ban_txt p{
+    padding-top: 10px;
+    color: #ffffff;
+    font-size: 22px;
+
+}
+.cont{
+    color: #13435d;
+    background-color: #ffffff;
+    border: none;
+   width: 110px;
+   height: 35px;
+    border-radius: 0.5rem;
+    font-weight: 600;
+}
+.ban_pic{
+    margin-top: 120px;
+    background: url(../img/banner_character7.png);
+    height: 60vh;
+    width: 570px;
+}
+
+.about_img{
+    margin-top: 280px;
+}
+
